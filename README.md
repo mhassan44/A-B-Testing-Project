@@ -1,6 +1,6 @@
 # A/B Testing Project
 
-Analyze experiments results for A/B testing by using inferential statistics by using hypotheses testing and probability. Analyze the results of an A/B test run by an e-commerce website and helping the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+<p align="justify"> Analyze experiments results for A/B testing by using inferential statistics by using hypotheses testing and probability. Analyze the results of an A/B test run by an e-commerce website and helping the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.</p>
 
 ## Objectives
 
