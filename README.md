@@ -7,7 +7,7 @@ Analyze experiments results for A/B testing by using inferential statistics by u
 - Practice working on A/B testing projects and their practical difficulties
 - Perform A/B tests and make recommendations backed by computed inferences
 
-# Project Steps & Research Questions:
+# Project Steps & Research Questions
 
 ## Data Wrangling:
 
