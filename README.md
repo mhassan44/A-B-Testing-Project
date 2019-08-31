@@ -17,7 +17,7 @@ Analyze experiments results for A/B testing by using inferential statistics by u
 ## Data Analytics:
 
 - Compute probabilities of converting:
-1. regardless of page.
+1. Regardless of page.
 2. Given that an individual received the treatment
 3. Given that an individual received the control page
 -  Perform Hypothesis Testing and calculate p-values
